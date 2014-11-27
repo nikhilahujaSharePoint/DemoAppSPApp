@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="Default Web Site/TrainingApp2" />
+  <setParameter name="ClientId" value="544fc1bf-b6d6-4780-a06f-be3d43ea0e6b" />
+  <setParameter name="ClientSecret" value="Ll9Ozj8ahahAVnq2Q1S1sF6HFEUCyXRzHdq1yN6889c=" />
+</parameters>

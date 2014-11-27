@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Published:a2ba41A2-b704-4a9d-a9ed-aecacc1d43ed-->
+<!--Created:cb85b80c-f585-40ff-8bfc-12ff4d0e34a9-->
+<App xmlns="http://schemas.microsoft.com/sharepoint/2012/app/manifest" Name="TrainingApp2" ProductID="{dd9a9550-acca-4ebb-a429-e010e04fa2a9}" Version="1.0.0.0" SharePointMinVersion="15.0.0.0">
+  <Properties>
+    <Title>TrainingApp2</Title>
+    <StartPage>https://wil061.wse.wsmain.local:300/_layouts/Home.aspx?{StandardTokens}</StartPage>
+  </Properties>
+  <AppPrincipal>
+    <RemoteWebApplication ClientId="544fc1bf-b6d6-4780-a06f-be3d43ea0e6b" />
+  </AppPrincipal>
+  <AppPermissionRequests>
+    <AppPermissionRequest Scope="http://sharepoint/content/sitecollection/web" Right="Manage" />
+  </AppPermissionRequests>
+</App>

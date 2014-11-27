@@ -1,0 +1,1 @@
+C:\svn\TrainingDemoApp2\TrainingApp2\bin\Debug\app.publish\1.0.0.0\TrainingApp2.app

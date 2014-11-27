@@ -1,0 +1,10 @@
+C:\svn\TrainingDemoApp2\TrainingApp2Web\bin\TrainingApp2Web.dll
+C:\svn\TrainingDemoApp2\TrainingApp2Web\bin\TrainingApp2Web.pdb
+C:\svn\TrainingDemoApp2\TrainingApp2Web\bin\Microsoft.IdentityModel.dll
+C:\svn\TrainingDemoApp2\TrainingApp2Web\bin\Microsoft.IdentityModel.Extensions.dll
+C:\svn\TrainingDemoApp2\TrainingApp2Web\bin\Microsoft.SharePoint.Client.dll
+C:\svn\TrainingDemoApp2\TrainingApp2Web\bin\Microsoft.SharePoint.Client.Runtime.dll
+C:\svn\TrainingDemoApp2\TrainingApp2Web\bin\en\Microsoft.IdentityModel.resources.dll
+C:\svn\TrainingDemoApp2\TrainingApp2Web\obj\Debug\TrainingApp2Web.csprojResolveAssemblyReference.cache
+C:\svn\TrainingDemoApp2\TrainingApp2Web\obj\Debug\TrainingApp2Web.dll
+C:\svn\TrainingDemoApp2\TrainingApp2Web\obj\Debug\TrainingApp2Web.pdb

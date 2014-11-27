@@ -1,0 +1,3 @@
+C:\svn\TrainingDemoApp2\TrainingApp2\bin\Debug\TrainingApp2.pdb
+C:\svn\TrainingDemoApp2\TrainingApp2\obj\Debug\TrainingApp2.dll
+C:\svn\TrainingDemoApp2\TrainingApp2\obj\Debug\TrainingApp2.pdb
